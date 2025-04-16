@@ -48,7 +48,7 @@ project440/
 
 ### 1. Clone the repository
 
-- git clone https://github.com/litsamk/440.got
+- git clone https://github.com/litsamk/440.git
 - cd 440
 
 
