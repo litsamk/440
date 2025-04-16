@@ -99,7 +99,7 @@ This will generate PCA and UMAP plots and save them, along with result CSVs, in 
 
 
 **Prepared by:**  
-Litsa Kapsalis and Harshit Bhason
+Litsa Kapsalis and Harshit Bhasin
 [Project Title: Figure 3A-E: Cardiotoxicity Transcriptomics Analysis]  
 [GitHub Repo Link: https://github.com/litsamk/440/tree/branch1
 Public
